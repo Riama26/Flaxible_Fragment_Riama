@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flaxible Fragment Riama</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_satu">FRAGMENT SATU</string>
+    <string name="pindah_fragment_dua">PINDAH FRAGMENT DUA</string>
+    <string name="fragment_dua">FRAGMENT DUA</string>
+    <string name="pindah_fragment_satu">PINDAH FRAGMENT SATU</string>
+</resources>
